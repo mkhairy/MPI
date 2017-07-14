@@ -1,0 +1,2 @@
+mpirun -np 16 ./MM_MPI 0 0 8192 2
+mpirun -np 16 ./MM_MPI_Pthread 0 0 8192 2
